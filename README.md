@@ -9,4 +9,12 @@ Ensure you have the following dependencies installed before running the code:
 - NumPy
 - Matplotlib
 
-# Features
+## Features
+1. Downloading Assets
+The script downloads a ZIP file containing image assets and extracts them to the current working directory.
+
+2. Reading an Image
+The script reads an image in grayscale mode and displays it using Matplotlib.
+
+3. Modifying Image Pixels
+Specific pixels in an image are modified and displayed.
