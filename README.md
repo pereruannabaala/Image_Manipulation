@@ -8,3 +8,5 @@ Ensure you have the following dependencies installed before running the code:
 - OpenCV
 - NumPy
 - Matplotlib
+
+# Features
