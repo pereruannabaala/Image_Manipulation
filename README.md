@@ -21,3 +21,21 @@ The script reads an image in grayscale mode and displays it using Matplotlib.
 3 Modifying Image Pixels
 
 Specific pixels in an image are modified and displayed.
+
+4 Cropping an Image
+
+Extracts a specific region from an image.
+
+5 Resizing an Image
+
+The image is resized using different methods:
+
+- Scaling factors
+
+- Specifying exact dimensions
+
+- Maintaining aspect ratio
+
+6. Flipping an Image
+
+The script flips an image horizontally, vertically, and in both directions.
