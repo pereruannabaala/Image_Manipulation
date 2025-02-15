@@ -5,3 +5,6 @@ This project demonstrates various image processing techniques using OpenCV, NumP
 
 ## Prerequisites
 Ensure you have the following dependencies installed before running the code:
+- OpenCV
+- NumPy
+- Matplotlib
