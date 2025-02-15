@@ -36,6 +36,13 @@ The image is resized using different methods:
 
 - Maintaining aspect ratio
 
-6. Flipping an Image
+6 Flipping an Image
 
 The script flips an image horizontally, vertically, and in both directions.
+
+## Running the Script
+Simply execute the Python script in a Jupyter Notebook or Python environment to see the output.
+
+## Conclusion
+
+This project provides a foundation for working with OpenCV for image processing. Future improvements could include additional transformations like rotation, filtering, and edge detection.
